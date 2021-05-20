@@ -84,6 +84,9 @@ namespace ArrayManipulations
             int[] streetNo = { 52, 40, 6, 25, 50, 22, 70 };
             //int maxi = Math.Max(streetNo);
             ///int[] mysort = Array.Sort(streetNo);
+            Console.WriteLine("Testing");
+            
+                
 
 
 
