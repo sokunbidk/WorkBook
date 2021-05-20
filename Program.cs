@@ -85,6 +85,7 @@ namespace ArrayManipulations
             //int maxi = Math.Max(streetNo);
             ///int[] mysort = Array.Sort(streetNo);
             Console.WriteLine("Testing");
+            Console.ReadLine();
             
                 
 
