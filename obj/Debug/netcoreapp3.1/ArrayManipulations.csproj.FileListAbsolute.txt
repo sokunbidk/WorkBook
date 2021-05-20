@@ -1,0 +1,13 @@
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.exe
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.deps.json
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.runtimeconfig.json
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.runtimeconfig.dev.json
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.dll
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\bin\Debug\netcoreapp3.1\ArrayManipulations.pdb
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.csprojAssemblyReference.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.AssemblyInfoInputs.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.AssemblyInfo.cs
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.csproj.CoreCompileInputs.cache
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.dll
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.pdb
+C:\Users\ADD. SEC. MA'AL\Desktop\CsharpTraining\ArrayManipulations\obj\Debug\netcoreapp3.1\ArrayManipulations.genruntimeconfig.cache
